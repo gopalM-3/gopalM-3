@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gopalM-3
 - 👀 I’m interested in programming, cricket, gaming and songs, I do watch some anime and read manga
-- 🌱 I’m currently learning python and I know a bit of C
+- 🌱 I’m currently learning java and I know a bit of C and python
 
 <!---
 gopalM-3/gopalM-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
