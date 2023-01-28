@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gopalM-3
-- 👀 I’m interested in programming, cricket, gaming and songs, I do watch some anime and read manga
+- 👀 I’m interested in programming, cricket, gaming and songs
 - 🌱 I’m currently learning web dev
 
 <!---
