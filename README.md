@@ -1,10 +1,8 @@
-- 👋 Hello there, I'm @gopalM-3!
+- 👋 Hello there, I'm @gopalM-3! ![](https://komarev.com/ghpvc/?username=gopalM-3)
 - 👀 Welcome to my GitHub! I'm an avid enthusiast of software development, with a particular passion for data science and the intricate art of training neural networks.
 - 🌱 At this very moment, I find myself so deeply engrossed in the realm of deep learning that my mind is executing mental backflips.
 
 When I'm not busy learning, I'm either lifting weights, vibing to music, or gaming. Feel free to explore my repositories and join me on this exhilarating journey! Together, we can collaborate and expand our knowledge to new frontiers. Let's propel ourselves forward with the force of a rocket ship. 🚀
-
-![](https://komarev.com/ghpvc/?username=gopalM-3)
 
 ### Let's Chat!
 [![](https://skillicons.dev/icons?i=gmail)](mailto:gopalmatcha2003@gmail.com)
