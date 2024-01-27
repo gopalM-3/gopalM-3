@@ -6,7 +6,7 @@ When I'm not busy learning, I'm either lifting weights, vibing to music, or gami
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gopalM-3&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalM-3&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalM-3&layout=compact&hide_progress=true&hide_border=true)
 <!---
 gopalM-3/gopalM-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
