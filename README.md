@@ -4,7 +4,7 @@
 
 When I'm not busy learning, I'm either lifting weights, vibing to music, or gaming. Feel free to explore my repositories and join me on this exhilarating journey! Together, we can collaborate and expand our knowledge to new frontiers. Let's propel ourselves forward with the force of a rocket ship. 🚀
 
-[![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopalM-3)](https://github.com/gopalM-3/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gopalM-3&theme=highcontrast)](https://git.io/streak-stats)
 
 <!---
 gopalM-3/gopalM-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
