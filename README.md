@@ -7,7 +7,7 @@ When I'm not busy learning, I'm either lifting weights, vibing to music, or gami
 ![](https://komarev.com/ghpvc/?username=gopalM-3)
 
 [![](https://skillicons.dev/icons?i=gmail)](mailto:gopalmatcha2003@gmail.com)
-[![](https://skillicons.dev/icons?i=linkedin)]((https://www.linkedin.com/in/gopalmatcha/))
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gopalmatcha/)
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/apollo.iii/)
 
 ### My arsenal
