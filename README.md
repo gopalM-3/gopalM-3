@@ -4,6 +4,12 @@
 
 When I'm not busy learning, I'm either lifting weights, vibing to music, or gaming. Feel free to explore my repositories and join me on this exhilarating journey! Together, we can collaborate and expand our knowledge to new frontiers. Let's propel ourselves forward with the force of a rocket ship. 🚀
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gopalM-3&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalM-3&layout=compact&hide_progress=true&hide_border=true&bg_color=0a0d10&title_color=59ded6&text_color=3c8484)
