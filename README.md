@@ -3,7 +3,6 @@
 - 🌱 At this very moment, I find myself so deeply engrossed in the realm of deep learning that my mind is executing mental backflips.
 
 ![](https://komarev.com/ghpvc/?username=gopalM-3)
-
 When I'm not busy learning, I'm either lifting weights, vibing to music, or gaming. Feel free to explore my repositories and join me on this exhilarating journey! Together, we can collaborate and expand our knowledge to new frontiers. Let's propel ourselves forward with the force of a rocket ship. 🚀
 
 ### Let's Chat!
