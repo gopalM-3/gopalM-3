@@ -8,7 +8,7 @@ When I'm not busy learning, I'm either lifting weights, vibing to music, or gami
 
 [![](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 
-## My arsenal
+### My arsenal
 [![](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gopalM-3&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
