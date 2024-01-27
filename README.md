@@ -12,7 +12,7 @@ When I'm not busy learning, I'm either lifting weights, vibing to music, or gami
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/apollo.iii/)
 
 ### My Arsenal
-[![](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,html,css,python,c,c++,sql,kotlin,typescript,dart)](https://skillicons.dev)
 
 ### My GitHub Stats: Crushing it, one commit at a time! 🚀
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gopalM-3&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
