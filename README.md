@@ -1,6 +1,6 @@
 - 👋 Hello there, I'm @gopalM-3!
-- 👀 Welcome to my GitHub! I'm an avid enthusiast of software development, with a particular passion for data science and the intricate art of training neural networks.
-- 🌱 At this very moment, I find myself so deeply engrossed in the realm of deep learning that my mind is executing mental backflips.
+- 👀 Welcome to my GitHub! I'm an avid software developer with a particular passion for building robust backend software, REST APIs, microservices, and more.
+- 🌱 At this moment, I'm so immersed in exploring deep learning that it feels like my mind is performing mental acrobatics.
 
 ![](https://komarev.com/ghpvc/?username=gopalM-3)
 
